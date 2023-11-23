@@ -29,9 +29,13 @@ const Projects = () => {
                 Developed a Movie API web application using <strong>React Js</strong> and <strong> Redux </strong>, enabling users to browse, search, and
                 interact with movie data seamlessly.
                 <br />I have implemented state management with Redux, maintaining a centralized store for efficient data flow and application scalability.
+                <br />
+                <a target="_blank" rel="noopener noreferrer" href="https://www.aswinferolic.github.io/cinema" style={{padding: 0, textDecoration: 'underline'}}>
+                  <strong> View </strong>
+                </a>
               </p>
             </CS.MW700PX>
-            <a href="https://aswinferolic.github.io/cinema" target="_blank" className="social-link" rel="noopener noreferrer">
+            <a href="https://aswinferolic.github.io/cinema" target="_blank" rel="noopener noreferrer">
               <MovieDBImg></MovieDBImg>
             </a>
           </CS.W100>

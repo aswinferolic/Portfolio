@@ -11,7 +11,7 @@ const Skills = () => {
             <Title title="My Skills" />
             <p>
               Through my studies, I've gained a solid understanding of computer science and web development concepts, and have dedicated a lot of my free time
-              to apply these concepts to real-world scenarios and application
+              to apply these concepts to real-world scenarios and application.
             </p>
           </CS.MW700PX>
 

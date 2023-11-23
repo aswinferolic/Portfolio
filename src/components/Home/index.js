@@ -23,7 +23,9 @@ const Home = () => {
               During my time as a <strong>Backend Developer Intern</strong> at DOODLEBLUE INNOVATIONS, I delved into the world of Node.js and Express. In this
               role, I developed and maintained multiple microservices, encompassing REST APIs written in Node.js. Working closely with the backend team, I
               ensured strict adherence to backend code standards. Additionally, I honed my skills in effective data modeling, creating well-structured and
-              optimized MongoDB schemas.
+              optimized MongoDB schemas. My journey also involved learning Node.js best practices, emphasizing efficient programming and the construction of
+              high-performance applications through modular code organization and optimization techniques. These experiences have not only shaped my technical
+              expertise but have also instilled in me a passion for collaborative and innovative software development.
             </p>
           </CS.W100>
         </CS.Section>
