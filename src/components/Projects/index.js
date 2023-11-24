@@ -30,7 +30,7 @@ const Projects = () => {
                 interact with movie data seamlessly.
                 <br />I have implemented state management with Redux, maintaining a centralized store for efficient data flow and application scalability.
                 <br />
-                <a target="_blank" rel="noopener noreferrer" href="https://www.aswinferolic.github.io/cinema" style={{padding: 0, textDecoration: 'underline'}}>
+                <a target="_blank" rel="noopener noreferrer" href="https://aswinferolic.github.io/cinema" style={{padding: 0, textDecoration: 'underline'}}>
                   <strong> View </strong>
                 </a>
               </p>
