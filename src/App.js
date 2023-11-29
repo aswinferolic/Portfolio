@@ -64,7 +64,7 @@ const App = () => {
           <a href="https://www.linkedin.com/in/ferolic/" className="social-link" target="_blank" rel="noopener noreferrer">
             linkedIn
           </a>
-          <a href="mailto:ferolic96@gmail.com">ferolicdev@gmail.com</a>
+          <a href="mailto:ferolic.aswin@gmail.com">ferolic.aswin@gmail.com</a>
         </div>
       </Footer>
     </Wrapper>
